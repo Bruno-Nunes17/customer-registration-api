@@ -12,7 +12,7 @@ Essa aplicação foi desenvolvida exclusivamente para cadastrar clientes, listá
 - Verbos **HTTP**
 - Status Code
 - Endpoints Amigáveis
-- Banco de Dados não Relacional **MongoDB*, utilizando **Mongoose**
+- Banco de Dados não Relacional **MongoDB*, utilizando **Prisma**
 - "Travando" Requisições pra API com **fastifycors**
 - Variáveis de Ambiente com **DotEnv**
 - Testando Requisição pra API com **Insominia**
@@ -42,7 +42,7 @@ Tendo gerado a string, procure pelo arquivo .env.example e siga o passo a passo 
 
 Considerando que você executou as etapas acima com êxito, abra o seu terminal e rode os seguintes comandos em suas respectivas ordens:
 
-- `git clone `
+- `git clone https://github.com/Bruno-Nunes17/customer-registration-api`
 - `cd upload-api`
 - `npm install`
 - `npm start` or `npm run dev`
