@@ -57,4 +57,4 @@ Método para fazer o cadastro do cliente. Você deve enviar no corpo da requisi�
 Método para Listar os clientes cadastrados Nessa Ferramenta. Ele retorna uma lista de clientes cadastrados, com nome, email, id, data de criação e data de atualização. <br/>
 
 `DELETE/customer`:  <br/>
-Método para deletar um cleinte cadastrado. para fazer isso sera necessario enviar na requisição o id do cliente que deseja excluir. <br/>
+Método para deletar um cliente cadastrado. para fazer isso sera necessario enviar na requisição o id do cliente que deseja excluir. <br/>
